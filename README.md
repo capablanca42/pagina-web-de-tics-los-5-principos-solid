@@ -1,1 +1,0 @@
-# pagina-web-de-tics-los-5-principos-solid
